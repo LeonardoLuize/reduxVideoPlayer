@@ -13,7 +13,8 @@
 <p>
   Para começar a entender melhor o react-redux, desenvolvi
   uma simples aplicação que possui dois componentes que usam e 
-  alteram os dados compartilhados por meio do redux.
+  alteram os dados compartilhados por meio do redux. Você pode
+	visualizar o projeto online clicando <a target="_blank" href="https://redux-video-player.vercel.app/" >aqui</a>
 </p>
 
 ### 🔌 Como rodar o projeto | Local

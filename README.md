@@ -36,6 +36,15 @@ $ npm start
 - [React](https://pt-br.reactjs.org/)
 - [Redux](https://react-redux.js.org/)
 - [Chakra Ui](https://chakra-ui.com/)
+<a target="_new" href="https://pt-br.reactjs.org">
+  <img src="https://img.shields.io/badge/ReactJs%20-%61DAFB33.svg?&style=for-the-badge&logo=react&logoColor=black&color=61DAFB"/>
+</a>
+<a target="_new" href="https://react-redux.js.org/">
+  <img src="https://img.shields.io/badge/Redux%20-%61DAFB33.svg?&style=for-the-badge&logo=redux&logoColor=white&color=764ABC"/>
+</a>
+<a target="_new" href="https://chakra-ui.com/">
+  <img src="https://img.shields.io/badge/Chakra Ui%20-%61DAFB33.svg?&style=for-the-badge&logo=chakraui&logoColor=white&color=6ACACE"/>
+</a>
 
 ### 🎲 Feito por
 ---

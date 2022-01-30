@@ -58,7 +58,7 @@ $ npm start
 
 Feito por Leonardo Luize 😁
 
-<a target="_new" href="https://www.linkedin.com/in/leonardoluize/">
+<a target="_new" href="https://codepen.io/leonardoluize">
   <img src="https://img.shields.io/badge/Codepen%20-%61DAFB33.svg?&style=for-the-badge&logo=codepen&logoColor=white&color=161B22"/>
 </a>
 <a target="_new" href="https://www.linkedin.com/in/leonardoluize/">
